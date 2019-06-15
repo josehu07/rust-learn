@@ -8,8 +8,8 @@
 //   But we can only have 0 / 1 library crate in one package.
 //
 // So the package `packages` now contains three crates:
-//   binary packages: `packages`, `hello`
-//   library package: `packages`
+//   binary crates: `packages`, `hello`
+//   library crates: `packages`
 //
 
 
