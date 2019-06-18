@@ -6,3 +6,9 @@ edition = "2018"
 
 [dependencies]
 rand = "0.6"
+
+[profile.dev]
+opt_level = 1
+
+[profile.release]
+opt_level = 3

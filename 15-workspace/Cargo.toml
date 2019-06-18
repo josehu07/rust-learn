@@ -1,0 +1,16 @@
+#
+# Top level is a workspace, containing a bunch of packages.
+#
+# In top level directory, we can do:
+#
+#   1. cargo build
+#   2. cargo run -p <PACKAGE>
+#   3. cargo test
+#
+
+[workspace]
+members = [
+    "adder",
+    "add-one",
+    "add-two",
+]

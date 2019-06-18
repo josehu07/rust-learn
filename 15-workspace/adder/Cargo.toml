@@ -1,0 +1,9 @@
+[package]
+name = "adder"
+version = "0.1.0"
+authors = ["Jose <huguanzhou123@sina.com>"]
+edition = "2018"
+
+[dependencies]
+add-one = { path = "../add-one" }   # Local dependencies.mv 
+add-two = { path = "../add-two" }

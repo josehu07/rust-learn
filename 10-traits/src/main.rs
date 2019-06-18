@@ -108,3 +108,6 @@ impl<T : Display> Document for MyGenericType<T> {
 
 
 // NOTICE: Returning a type that implements a certain trait, refer to Trait Objects.
+
+
+// NOTICE: For useful derivable traits, refer to "The Book", Appendix C.
