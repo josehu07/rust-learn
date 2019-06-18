@@ -19,7 +19,7 @@ Each sub-folder is a *Cargo* project, containing essential coding concepts, synt
 - Cargo advanced:
     - Common usages: [https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
     - The Cargo Book: [https://doc.rust-lang.org/cargo/](https://doc.rust-lang.org/cargo/)
-    - [https://crates.io/](https://crates.io/)
+    - [https://crates.io/](https://crates.io/) Hub
 
 ## Advanced Features Not Included
 
