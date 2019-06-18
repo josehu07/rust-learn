@@ -54,7 +54,7 @@ mod tests {
         let x : i32 = 21;
         let y : i32 = 99;
 
-        let _r = crate::shapes::Rectangle::new_from_i32(x, y)?;
+        let _r = shapes::Rectangle::new_from_i32(x, y)?;
         Ok(())
     }
 }
