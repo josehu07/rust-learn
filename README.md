@@ -17,7 +17,7 @@ Each sub-folder is a *Cargo* project, containing essential coding concepts, synt
     - Check the [Learn](https://www.rust-lang.org/learn) tab for comprehensive guidance materials
 - Rust standard library document: [https://doc.rust-lang.org/std/index.html](https://doc.rust-lang.org/std/index.html)
 - Cargo advanced:
-    - Common usages: [https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
+    - Common usages (including doc comments): [https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
     - The Cargo Book: [https://doc.rust-lang.org/cargo/](https://doc.rust-lang.org/cargo/)
     - [https://crates.io/](https://crates.io/) Hub
 
