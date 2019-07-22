@@ -3,6 +3,9 @@
 > Jose @ ShanghaiTech
 
 
+
+
+
 ## Contents
 
 Basically ***Rust*** essential coding concepts and examples, following ["The Book"](https://doc.rust-lang.org/book/) from [rust-lang.org](https://www.rust-lang.org/).
@@ -20,6 +23,7 @@ Each sub-folder is a *Cargo* project, containing essential coding concepts, synt
     - Common usages (including doc comments): [https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html](https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html)
     - The Cargo Book: [https://doc.rust-lang.org/cargo/](https://doc.rust-lang.org/cargo/)
     - [https://crates.io/](https://crates.io/) Hub
+
 
 ## Advanced Features Not Included
 
