@@ -3,8 +3,9 @@
 > Jose @ ShanghaiTech
 
 
-
-
+![](https://img.shields.io/github/languages/count/hgz12345ssdlh/rust-learn.svg?color=blueviolet)
+![https://www.rust-lang.org/](https://img.shields.io/github/languages/top/hgz12345ssdlh/rust-learn.svg?color=yellowgreen)
+![](https://img.shields.io/github/languages/code-size/hgz12345ssdlh/rust-learn.svg)
 
 ## Contents
 
@@ -25,7 +26,7 @@ Each sub-folder is a *Cargo* project, containing essential coding concepts, synt
     - [https://crates.io/](https://crates.io/) Hub
 
 
-## Advanced Features Not Included
+## Advanced Features Not Included Yet
 
 Refer to "The Book", Chapter 19 when having trouble.
 
