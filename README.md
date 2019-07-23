@@ -3,7 +3,7 @@
 > Jose @ ShanghaiTech
 
 
-![](https://img.shields.io/github/languages/count/hgz12345ssdlh/rust-learn.svg?color=blueviolet)
+![](https://img.shields.io/github/languages/count/hgz12345ssdlh/rust-learn.svg?color=brightgreen)
 ![https://www.rust-lang.org/](https://img.shields.io/github/languages/top/hgz12345ssdlh/rust-learn.svg?color=yellowgreen)
 ![](https://img.shields.io/github/languages/code-size/hgz12345ssdlh/rust-learn.svg)
 
