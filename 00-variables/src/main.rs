@@ -19,8 +19,8 @@ fn main() {
     println!("{}", chars);
 
     // Statically typed!
-    //   u/i 8 16 32 64 128 size
-    //   f 32 64
+    //   u/i[8|16|32|64|128|size]
+    //   f[32|64]
     //   bool
     //   char (4 bytes in size, Unicode scalar value)
     let num : f32 = "3.14".parse().expect("Not a float!");
