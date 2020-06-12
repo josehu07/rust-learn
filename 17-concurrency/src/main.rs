@@ -34,7 +34,7 @@ fn main() -> thread::Result<()> {
     });
     println!("Got: {}!", rx.recv().unwrap());   // `recv()` blocks, while `try_recv()` does not.
 
-    // Cloning mutiple senders.
+    // Cloning multiple senders.
     let (tx0, rx) = mpsc::channel();
     let tx1 = mpsc::Sender::clone(&tx0);
     thread::spawn(move || { tx0.send(33).unwrap(); });

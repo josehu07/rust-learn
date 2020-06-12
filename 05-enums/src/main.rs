@@ -39,7 +39,7 @@ enum Coin {
 
 fn main() {
 
-    // Normal enums. Enums in Rust act somewhat like unions in C/C++ (but more flexible).
+    // Normal enums. Enums in Rust act somewhat like enums + unions in C/C++ (but more flexible).
     let ip1 = IpAddr{kind : IpAddrKind::V4, addr : String::from("127.0.0.1")};
     let ip2 = IpAddr{kind : IpAddrKind::V6, addr : String::from("::1")};
     println!("{:?} | {:?}", ip1, ip2);

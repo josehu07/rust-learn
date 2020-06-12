@@ -5,5 +5,5 @@ authors = ["Jose <huguanzhou123@sina.com>"]
 edition = "2018"
 
 [dependencies]
-add-one = { path = "../add-one" }   # Local dependencies.mv 
+add-one = { path = "../add-one" }   # Local dependencies.
 add-two = { path = "../add-two" }
