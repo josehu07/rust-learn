@@ -54,6 +54,18 @@ fn main() {
     //   an immutable cell.
     //
     unimplemented!();
+
+    //
+    // `Box<T>`     == compile-time borrow checking on heap value
+    // `Cell<T>`    == runtime borrow checking on heap value (rare)
+    // `RefCell<T>` == runtime borrow checking on reference to heap value
+    // `Mutex<T>`   == thread-safe atomic `RefCell<T>`
+    //
+    // `Rc<T>`   == reference counting (for multiple ownership of heap value where it is unknown
+    //              who/where is the last owner)
+    // `Weak<T>` == temporarily downgraded reference counting for avoiding loops
+    // `Arc<T>`  == thread-safe atomic `Rc<T>`
+    //
 }
 
 
